@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Dhruva Bhat S N</h1>
 <h3 align="center">A software engineer from India</h3>
-<img align="right" alt="coading"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24625099&psig=AOvVaw1UONxoTwM1imll_7-P2o8M&ust=1674047473627000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCNCzm92TzvwCFQAAAAAdAAAAABAE">
+<img align="right" alt="coading"width="400"src="![image](https://user-images.githubusercontent.com/122305929/212910826-da360773-b3b2-405f-9ad2-febf5832273d.png)>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhruvabhat24&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvabhat24" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhruvabhat24" alt="dhruvabhat24" /></a> </p>
