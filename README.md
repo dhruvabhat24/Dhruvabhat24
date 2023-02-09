@@ -9,14 +9,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Java, python, Data Structures**
+- 🔭 I have done project on [python](https://github.com/Dhruvabhat24/Projects-/commit/b01748fd9cc1a7f92bc2d69cfcf6b0b12d66659b)
 
-- 📫 How to reach me **dhruvabhat20032gmail.com**
+- 🌱 I’m currently learning **Java, python, Data Structures ,C**
+
+- 📫 How to reach me **dhruvabhat2003gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dhruva bhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruva bhat" height="30" width="40" /></a>
+<a href="https://instagram.com/dhruv___05__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruv___05__" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/dhruva_77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhruva_77" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/dhruvabhat24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dhruvabhat24" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/dhruvabhat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dhruvabhat/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
