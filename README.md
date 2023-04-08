@@ -20,7 +20,7 @@
 <a href="https://linkedin.com/in/dhruva bhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhruva bhat" height="30" width="40" /></a>
 <a href="https://instagram.com/dhruv___05__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruv___05__" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/dhruva_77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhruva_77" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/dhruvabhat24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dhruvabhat24" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/dhruvabhat24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="[https://www.hackerrank.com/dhruvabhat24](https://www.hackerrank.com/dhruvabhat24?hr_r=1)" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/dhruvabhat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/dhruvabhat/" height="30" width="40" /></a>
 </p>
 
