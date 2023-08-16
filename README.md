@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dhruvabhat9" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvabhat9?logo=twitter&style=for-the-badge" alt="dhruvabhat9" /></a> </p>
 
-- 🔭 I’m currently working on Banking MAnagement System (Java Projecct)
+- 🔭 I’m currently working on Banking Management System (Java Projecct)
 
 - 🌱 I’m currently learning **Python Algorithms**
 
