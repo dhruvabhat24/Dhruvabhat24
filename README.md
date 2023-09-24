@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [GPS Navigator](https://codepen.io/Dhruvabhat24/pen/ZEmaWzM)
 
-- 🌱 I’m currently learning **Python, Algorithms**
+- 🌱 I’m currently learning **React, Algorithms**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dhruvabhat24/Projects-](https://github.com/Dhruvabhat24/Projects-)
 
