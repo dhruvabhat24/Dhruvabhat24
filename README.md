@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **YouTube clone 2.0**
 
-- 🌱 I’m currently learning **React Node.js DSA**
+- 🌱 I’m currently learning **React Node.js DSA Tailwind CSS**
 
 - 👨‍💻 All of my projects are available at [https://dhruvabhat.netlify.app/](https://dhruvabhat.netlify.app/)
 
