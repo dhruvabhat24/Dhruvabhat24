@@ -20,6 +20,8 @@
 
 - ⚡ Fun fact **I am not only a man behind computer.**
 
+[![An image of @dhruvabhat24's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dhruvabhat24)](https://holopin.io/@dhruvabhat24)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/dhruvabhat24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dhruvabhat24" height="30" width="40" /></a>
