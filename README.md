@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/dhruvabhat9" target="blank"><img src="https://img.shields.io/twitter/follow/dhruvabhat9?logo=twitter&style=for-the-badge" alt="dhruvabhat9" /></a> </p>
 
-- 🔭 I’m currently working on **Social Media Application**
+- 🔭 I’m currently working on **Autonomous Telemetry Hub**
 
-- 🌱 I’m currently learning **React Node.js DSA Tailwind CSS**
+- 🌱 I’m currently learning **ReactJs, Node.js, DSA, Threejs**
 
 - 👨‍💻 All of my projects are available at [https://dhruvabhat.netlify.app/](https://dhruvabhat.netlify.app/)
 
