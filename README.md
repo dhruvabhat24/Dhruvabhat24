@@ -45,3 +45,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=Dhruvabhat24&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dhruvabhat24&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvabhat24&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvabhat24&bg_color=ddd1ff&color=9e4c98&line=4dd5c5&point=0353d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
