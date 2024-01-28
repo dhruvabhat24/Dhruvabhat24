@@ -43,5 +43,10 @@
 
 # 📊 GitHub Stats:
 <img src="https://myreadme.vercel.app/api/embed/dhruvabhat24?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvabhat24&bg_color=ddd1ff&color=9e4c98&line=4dd5c5&point=0353d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+# Random Joke
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+
