@@ -42,8 +42,6 @@
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="75" height="75" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" /></div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dhruvabhat24&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Dhruvabhat24&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruvabhat24&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="https://myreadme.vercel.app/api/embed/dhruvabhat24?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvabhat24&bg_color=ddd1ff&color=9e4c98&line=4dd5c5&point=0353d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
