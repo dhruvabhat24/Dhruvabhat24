@@ -50,3 +50,5 @@
 # Random Joke
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
+# Leetcode Stat
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dhruvabhat)](https://github.com/dhruvabhat24/github-readme)
