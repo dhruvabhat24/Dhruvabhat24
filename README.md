@@ -37,7 +37,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhruv__bhat_05" height="30" width="40" />
   </a>
 </p>
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 # 💻 Tech Stack:
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="75" height="75" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" /></div>
 
