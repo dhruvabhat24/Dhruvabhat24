@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/twitter/follow/dhruvabhat9?logo=twitter&style=for-the-badge" alt="dhruvabhat9" />
   </a>
 </p>
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 - 🔭 I’m currently working on **Autonomous Telemetry Hub**
 - 🌱 I’m currently learning **ReactJs, Node.js, DSA, Threejs**
 - 👨‍💻 All of my projects are available at [https://dhruvabhat.netlify.app/](https://dhruvabhat.netlify.app/)
@@ -40,22 +40,21 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 # 💻 Tech Stack:
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="75" height="75" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="75" height="75" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="75" height="75" /></div>
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 # 📊 GitHub Stats:
 <img src="https://myreadme.vercel.app/api/embed/dhruvabhat24?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvabhat24&bg_color=ddd1ff&color=9e4c98&line=4dd5c5&point=0353d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # Major Projects
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvabhat24&repo=weather-app)]([https://github.com/madushadhanushka/differ](https://github.com/dhruvabhat24/weather-app))
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dhruvabhat24&repo=Leetcode-2024)]([https://github.com/madushadhanushka/simple-sqlite](https://github.com/dhruvabhat24/Leetcode-2024))
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # Random Joke
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 # Leetcode Stat
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dhruvabhat)](https://github.com/dhruvabhat24/github-readme)
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
