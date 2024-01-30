@@ -13,14 +13,16 @@
   <a href="https://twitter.com/dhruvabhat9" target="blank">
     <img src="https://img.shields.io/twitter/follow/dhruvabhat9?logo=twitter&style=for-the-badge" alt="dhruvabhat9" />
   </a>
-</p>
+
+-  🔭 I’m currently working on **Autonomous Telemetry Hub**
+-  🌱 I’m currently learning **ReactJs, Node.js, DSA, Threejs**
+-  👨‍💻 All of my projects are available at [https://dhruvabhat.netlify.app/](https://dhruvabhat.netlify.app/)
+-  💬 Ask me about **Java HTML CSS JavaScript**
+-  📫 How to reach me **dhruvabhat24@gmail.com dhruvabhat2003@gmail.com**
+-  ⚡ Fun fact **I am not only a man behind the computer.**
+ </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-- 🔭 I’m currently working on **Autonomous Telemetry Hub**
-- 🌱 I’m currently learning **ReactJs, Node.js, DSA, Threejs**
-- 👨‍💻 All of my projects are available at [https://dhruvabhat.netlify.app/](https://dhruvabhat.netlify.app/)
-- 💬 Ask me about **Java HTML CSS JavaScript**
-- 📫 How to reach me **dhruvabhat24@gmail.com dhruvabhat2003@gmail.com**
-- ⚡ Fun fact **I am not only a man behind the computer.**
+
 
 ### Connect with me:
 <p align="left">
