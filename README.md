@@ -10,7 +10,7 @@
 -  🌱 I’m currently learning **ReactJs, Node.js, DSA, Threejs**
 -  👨‍💻 All of my projects are available at [https://dhruvabhat.netlify.app/](https://dhruvabhat.netlify.app/)
 -  💬 Ask me about **Java HTML CSS JavaScript**
--  📫 How to reach me **dhruvabhat24@gmail.com dhruvabhat2003@gmail.com**
+-  📫 How to reach me **dhruvabhat24@gmail.com **
 -  ⚡ Fun fact **I am not only a man behind the computer.**
  </p>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
