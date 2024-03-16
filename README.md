@@ -39,6 +39,6 @@
 <img src="https://myreadme.vercel.app/api/embed/dhruvabhat24?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
-
+[![dhruvabhat24's GitHub | Stats](https://stats.quine.sh/dhruvabhat24/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dhruvabhat24)
 
 
