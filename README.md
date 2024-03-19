@@ -38,7 +38,7 @@
 
 <img src="https://myreadme.vercel.app/api/embed/dhruvabhat24?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=Dhruvabhat24&theme=gruvbox)](https://git.io/streak-stats)
 [![dhruvabhat24's GitHub | Stats](https://stats.quine.sh/dhruvabhat24/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dhruvabhat24)
 
 
