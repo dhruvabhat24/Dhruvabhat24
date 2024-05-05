@@ -25,4 +25,3 @@ I'm a full stack developer from Karnataka, India, passionate about open source a
    <a herf="https://leetcode.com/u/dhruvabhat/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> &nbsp;
   <a href="https://www.geeksforgeeks.org/user/dhruvab1dkd/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> &nbsp;
       <a href="https://www.codechef.com/users/dhruva_77"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a> &nbsp;
-
