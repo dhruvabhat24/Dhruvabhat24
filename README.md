@@ -1,7 +1,6 @@
 # Hi there, I'm Dhruva Bhat! 👋
 
 I'm a full stack developer from Karnataka, India, passionate about open source and solving real-world problems.
-
 ## 📞 Contact Details
 
 <a href="mailto:dhruvabhat24@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
