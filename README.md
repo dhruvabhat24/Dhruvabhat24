@@ -15,20 +15,6 @@ I'm a full stack developer from Karnataka, India, passionate about open source a
 - Secured 90 % in PU (12th)
 - Secured 7 CGPA in Engineering ( Currently pursuing 3rd year )
 
-## 🎖️ Certification Courses
-
-- Certificate on Java from Coding Ninjas.
-- Certificate on SQL Basic, Intermediate from hackerrank.
-- Certificate on Javascript basic From Hackerrank.
-- Certificate on CSS Basic from Hackerrank.
-
-## 👨‍💻 Coding Platforms
-
-<a href="https://www.hackerrank.com/dhruvabhat24"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a> &nbsp;
-<a href="https://leetcode.com/u/dhruvabhat/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> &nbsp;
-<a href="https://www.geeksforgeeks.org/user/dhruvab1dkd/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> &nbsp;
-<a href="https://www.codechef.com/users/dhruva_77"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a> &nbsp;
-
 ## Projects
 
 <table>
@@ -53,3 +39,18 @@ I'm a full stack developer from Karnataka, India, passionate about open source a
     </td>
   </tr>
 </table>
+
+## 🎖️ Certification Courses
+
+- Certificate on Java from Coding Ninjas.
+- Certificate on SQL Basic, Intermediate from hackerrank.
+- Certificate on Javascript basic From Hackerrank.
+- Certificate on CSS Basic from Hackerrank.
+
+## 👨‍💻 Coding Platforms
+
+<a href="https://www.hackerrank.com/dhruvabhat24"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a> &nbsp;
+<a href="https://leetcode.com/u/dhruvabhat/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> &nbsp;
+<a href="https://www.geeksforgeeks.org/user/dhruvab1dkd/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> &nbsp;
+<a href="https://www.codechef.com/users/dhruva_77"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a> &nbsp;
+
