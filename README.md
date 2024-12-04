@@ -40,13 +40,9 @@ I'm a full stack developer from Karnataka, India, passionate about open source a
   </tr>
 </table>
 
-## 🎖️ Certification Courses
+## 🎖️ Certification 
+![github-foundations](https://github.com/user-attachments/assets/78d2f867-f19f-4185-86f8-fe9d0ff255ca)
 
-- Advance Java Training from LinkedIn Learning
-- Certificate on Java from Coding Ninjas.
-- Certificate on SQL Basic, Intermediate from hackerrank.
-- Certificate on Javascript basic From Hackerrank.
-- Certificate on CSS Basic from Hackerrank.
 
 ## 👨‍💻 Coding Platforms
 
