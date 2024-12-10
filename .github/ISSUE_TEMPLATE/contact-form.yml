@@ -2,7 +2,6 @@ name: Contact Form
 description: Submit a contact form with your details.
 title: "[Contact] Your Name Here"
 labels: contact
-assignees: ''
 
 body:
   - type: input
