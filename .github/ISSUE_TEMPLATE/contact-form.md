@@ -1,0 +1,60 @@
+---
+name: Contact Form
+about: 'Contact me though the form '
+title: ''
+labels: ''
+assignees: ''
+
+---
+
+name: Contact Form
+description: Submit a contact form with your details.
+title: "[Contact] Your Name Here"
+labels: contact
+assignees: ''
+
+body:
+  - type: input
+    id: name
+    attributes:
+      label: "Your Name"
+      description: "Please provide your full name."
+      placeholder: "John Doe"
+    validations:
+      required: true
+
+  - type: input
+    id: email
+    attributes:
+      label: "Your Email"
+      description: "Please provide a valid email address."
+      placeholder: "example@domain.com"
+    validations:
+      required: true
+      pattern: "^[^@\\s]+@[^@\\s]+\\.[^@\\s]+$"
+
+  - type: input
+    id: phone
+    attributes:
+      label: "Phone Number"
+      description: "Provide your phone number with country code (optional)."
+      placeholder: "+1234567890"
+
+  - type: input
+    id: github_profile
+    attributes:
+      label: "GitHub Profile"
+      description: "Provide the link to your GitHub profile."
+      placeholder: "https://github.com/yourusername"
+    validations:
+      required: true
+      pattern: "^https://github\\.com/.+$"
+
+  - type: textarea
+    id: message
+    attributes:
+      label: "Message"
+      description: "Write your message or inquiry here."
+      placeholder: "I am contacting you regarding..."
+    validations:
+      required: true
