@@ -44,12 +44,3 @@ I'm a full stack developer from Karnataka, India, passionate about open source a
 ![github-foundations](https://github.com/user-attachments/assets/78d2f867-f19f-4185-86f8-fe9d0ff255ca)
 
 
-## 👨‍💻 Coding Platforms
-
-<a href="https://www.hackerrank.com/dhruvabhat24"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a> &nbsp;
-<a href="https://leetcode.com/u/dhruvabhat/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a> &nbsp;
-<a href="https://www.geeksforgeeks.org/user/dhruvab1dkd/"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a> &nbsp;
-<a href="https://www.codechef.com/users/dhruva_77"><img src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white"/></a> &nbsp;
-
-[![dhruvabhat24's GitHub | Stats](https://stats.quine.sh/dhruvabhat24/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dhruvabhat24)
-[![dhruvabhat24's GitHub | Dependencies](https://stats.quine.sh/dhruvabhat24/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=dhruvabhat24)
