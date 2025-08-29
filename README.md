@@ -1,6 +1,6 @@
 # Hi there, I'm Dhruva Bhat! 👋
 
-I'm a full stack developer from Karnataka, India, passionate about open source and solving real-world problems.
+Currenlty I am Working as a Program annalyst trainee @Cognizant under Cloud and Devops Domain 
 
 ## 📞 Contact Details
 
