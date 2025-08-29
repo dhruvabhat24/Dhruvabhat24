@@ -13,7 +13,7 @@ Currenlty I am Working as a Program annalyst trainee @Cognizant under Cloud and 
 
 - Secured 89 % in 10th
 - Secured 90 % in PU (12th)
-- Secured 7 CGPA in Engineering ( Currently pursuing 3rd year )
+- Secured 7.62 CGPA 
 
 ## Projects
 
