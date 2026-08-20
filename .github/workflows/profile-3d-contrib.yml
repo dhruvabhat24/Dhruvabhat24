@@ -19,8 +19,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: dhruvabhat24
+          USERNAME: dhruvabhat24
       
       - name: Commit & push changes
         run: |
