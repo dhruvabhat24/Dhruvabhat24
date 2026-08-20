@@ -31,12 +31,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update 3D contribution graph"
-            
-            # Try to push to output branch, create if doesn't exist
-            if git rev-parse --verify output > /dev/null 2>&1; then
-              git push origin output
-            else
-              git checkout --orphan output
-              git push -u origin output
-            fi
+            git push origin main || echo "No changes to push"
           fi
