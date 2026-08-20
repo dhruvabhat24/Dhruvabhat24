@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=Dhruva%20Bhat%20S%20N&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Kubernetes%20%C2%B7%20Terraform%20%C2%B7%20GitOps&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9FF&height=220&section=header&text=Dhruva%20Bhat%20S%20N&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%40+Cognizant;Kubernetes+%7C+Terraform+%7C+GitOps;Building+on+Azure+%2C+GCP+%26+OCI;Automating+Everything+With+Python+%2B+Bash" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%40+Cognizant;Kubernetes+%7C+Terraform+%7C+ArgoCD;Cloud+Architect" width="100%"/>
 
 </div>
 
 <br/>
 
 <h3 align="center">👋 Hi there, I'm Dhruva!</h3>
-<p align="center">Currently working as a <b>Programmer Analyst</b> at <b>Cognizant</b>, in the Cloud & DevOps domain — building GitOps pipelines, automating infrastructure, and optimizing cloud costs across Azure, GCP, and OCI.</p>
+<p align="center">Currently working as a <b>Programmer Analyst</b> at <b>Cognizant</b>, in the Cloud & DevOps domain — building GitOps pipelines, automating infrastructure, and optimizing cloud costs. Passionate about Kubernetes, Infrastructure as Code, and automation.</p>
 
 <div align="center">
 
@@ -49,7 +49,7 @@ Platforms:   Azure (AKS)  ·  Google Cloud Platform  ·  Oracle Cloud Infrastruc
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,argocd,azure,gcp,oracle,jenkins,githubactions,prometheus,grafana,python,bash,git,ansible,elasticsearch,linux,github&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,argocd,azure,gcp,oracle,jenkins,githubactions,prometheus,grafana,python,bash,git,ansible,elasticsearch,linux,github&theme=dark" width="100%"/>
 
 </div>
 
@@ -100,7 +100,7 @@ Platforms:   Azure (AKS)  ·  Google Cloud Platform  ·  Oracle Cloud Infrastruc
       <h3>☸️ Kubernetes Cost Optimizer</h3>
       <p><strong>GCP · Python · Prometheus · BigQuery</strong></p>
       <p>Jan 2026 – Mar 2026</p>
-      <p>A Kubernetes cost optimization platform that analyzes resource utilization using Prometheus metrics and GCP billing data via BigQuery. Automatically generates prioritized cost-saving recommendations, ROI calculations, and spot-instance suggestions through cloud-agnostic Python modules, fully automated via GitHub Actions.</p>
+      <p>A Kubernetes cost optimization platform that analyzes resource utilization using Prometheus metrics and GCP billing data via BigQuery. Automatically generates prioritized cost-saving recommendations and insights.</p>
       <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
@@ -110,7 +110,7 @@ Platforms:   Azure (AKS)  ·  Google Cloud Platform  ·  Oracle Cloud Infrastruc
       <h3>🔁 GitOps Infrastructure Pipeline</h3>
       <p><strong>Azure · Terraform · ArgoCD</strong></p>
       <p>Apr 2026 – Jun 2026</p>
-      <p>A GitOps pipeline built with Terraform and ArgoCD for multi-environment Azure infrastructure deployments. Automates Terraform validation, approvals, and drift detection, with full audit trails and scheduled deployment workflows via GitHub Actions.</p>
+      <p>A GitOps pipeline built with Terraform and ArgoCD for multi-environment Azure infrastructure deployments. Automates Terraform validation, approvals, and drift detection, with full audit trail and rollback capabilities.</p>
       <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
       <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
       <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat-square&logo=argo&logoColor=white"/>
@@ -121,7 +121,7 @@ Platforms:   Azure (AKS)  ·  Google Cloud Platform  ·  Oracle Cloud Infrastruc
       <h3>🛡️ Kubernetes Disaster Recovery</h3>
       <p><strong>OCI · Velero · Python</strong></p>
       <p>Jul 2026 – Present</p>
-      <p>Automated, encrypted Kubernetes backups of etcd and persistent volumes to OCI Object Storage using Velero and Python. Includes automated recovery testing with health checks, RTO/RPO measurement, and Terraform-provisioned infrastructure with Prometheus monitoring and alerting.</p>
+      <p>Automated, encrypted Kubernetes backups of etcd and persistent volumes to OCI Object Storage using Velero and Python. Includes automated recovery testing with health checks, RTO/RPO measurement, and compliance reporting.</p>
       <img src="https://img.shields.io/badge/OCI-F80000?style=flat-square&logo=oracle&logoColor=white"/>
       <img src="https://img.shields.io/badge/Velero-4A4A4A?style=flat-square&logo=kubernetes&logoColor=white"/>
       <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
@@ -180,7 +180,7 @@ Platforms:   Azure (AKS)  ·  Google Cloud Platform  ·  Oracle Cloud Infrastruc
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruvabhat24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&count_private=true"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvabhat24&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=00C9FF"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvabhat24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvabhat24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF" width="100%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvabhat24&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C9FF&line=00C9FF&point=ffffff" width="100%"/>
 
@@ -193,7 +193,7 @@ Platforms:   Azure (AKS)  ·  Google Cloud Platform  ·  Oracle Cloud Infrastruc
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dhruvabhat24/dhruvabhat24/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/dhruvabhat24/Dhruvabhat24/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
 </div>
 
@@ -203,7 +203,7 @@ Platforms:   Azure (AKS)  ·  Google Cloud Platform  ·  Oracle Cloud Infrastruc
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dhruvabhat24/dhruvabhat24/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/dhruvabhat24/Dhruvabhat24/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -214,97 +214,3 @@ Platforms:   Azure (AKS)  ·  Google Cloud Platform  ·  Oracle Cloud Infrastruc
 **Thanks for stopping by! 🚀**
 
 </div>
-
-<!--
-=====================================================================
-  SETUP INSTRUCTIONS (delete this comment block once done)
-=====================================================================
-
-1) REPLACE "dhruvabhat24" everywhere in this file with your exact
-   GitHub username, if it differs (used in stats cards + snake path).
-
-2) SNAKE ANIMATION SETUP (one-time):
-   a. Create this repo if you haven't: github.com/<username>/<username>
-      (a repo named exactly your username shows this README on your profile)
-   b. In that repo, create: .github/workflows/snake.yml with:
-
-      name: Generate Snake
-      on:
-        schedule:
-          - cron: "0 */6 * * *"
-        workflow_dispatch: {}
-        push:
-          branches: [ main ]
-      jobs:
-        generate:
-          runs-on: ubuntu-latest
-          steps:
-            - uses: actions/checkout@v4
-            - uses: Platane/snk@v3
-              with:
-                github_user_name: ${{ github.repository_owner }}
-                outputs: |
-                  dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-                  dist/github-contribution-grid-snake.svg
-            - uses: crazy-max/ghaction-github-pages@v4
-              with:
-                target_branch: output
-                build_dir: dist
-              env:
-                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-   c. Push it, run the workflow once manually (Actions tab > Run workflow),
-      wait ~1 min for the "output" branch to appear.
-
-3) 3D CONTRIBUTION CALENDAR SETUP (one-time, same repo as snake):
-   a. In the same github.com/<username>/<username> repo, create:
-      .github/workflows/profile-3d-contrib.yml with:
-
-      name: Generate 3D Contribution Graph
-      on:
-        schedule:
-          - cron: "0 */6 * * *"
-        workflow_dispatch: {}
-        push:
-          branches: [ main ]
-      jobs:
-        build:
-          runs-on: ubuntu-latest
-          steps:
-            - uses: actions/checkout@v4
-            - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-              env:
-                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-              with:
-                username: ${{ github.repository_owner }}
-            - name: Commit & push
-              run: |
-                git config user.name github-actions
-                git config user.email github-actions@github.com
-                git add -f ./profile-3d-contrib/*.svg
-                git commit -m "Update 3D contribution graph" || echo "No changes"
-                git push origin output || (git checkout -b output && git push origin output)
-
-   b. Run it once manually (Actions tab > Run workflow), wait ~1 min.
-      Note: this generates several color variants (rainbow, dark, etc.) —
-      the README currently points at "profile-night-rainbow.svg"; open the
-      output branch to confirm the exact filename generated and adjust if needed.
-
-4) PROFILE VIEWS COUNTER: already wired to komarev.com using your
-   username — no setup needed, updates automatically.
-
-5) All stats/streak/language/trophy/skillicons widgets
-   (github-readme-stats, github-readme-streak-stats,
-   github-readme-activity-graph, github-profile-trophy, skillicons.dev)
-   are free public APIs — no setup needed, they pull live from your
-   GitHub account. NOTE: github-readme-stats.vercel.app (the stats card,
-   streak card, top-langs card, and activity graph) is a shared free
-   service that frequently gets rate-limited or goes down temporarily.
-   If those show broken on your profile, it's very likely a temporary
-   outage on their end, not an issue with this file — refresh in a
-   few minutes/hours. If it stays broken long-term, you can self-host
-   your own instance (the project's GitHub page has one-click deploy
-   instructions) and swap the URL.
-
-=====================================================================
--->
