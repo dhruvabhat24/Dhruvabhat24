@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=650&lines=DevOps+Engineer+%40+Cognizant;Kubernetes+%7C+Terraform+%7C+GitOps;Building+on+Azure+%2C+GCP+%26+OCI;Automating+Everything+With+Python+%2B+Bash" alt="Typing SVG" />
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Coding.gif" width="400"/>
-
 </div>
 
 <br/>
@@ -25,22 +21,12 @@
 
 <br/>
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
-
-</div>
-
-<br/>
-
 ## 📞 Connect With Me
 
 <div align="center">
 
 <a href="mailto:dhruvabhat24@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
-<a href="https://www.linkedin.com/in/dhruvabhatsn/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="https://dhruvabhat.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a> &nbsp;
-<a href="https://linktr.ee/dhruva24"><img alt="Linktree" src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dhruvabhatsn/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 </div>
 
@@ -202,15 +188,6 @@ Platforms:   Azure (AKS)  ·  Google Cloud Platform  ·  Oracle Cloud Infrastruc
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00C9FF&height=3&width=100%" width="100%"/>
 
-## 🏆 Trophy Case
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dhruvabhat24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" width="100%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00C9FF&height=3&width=100%" width="100%"/>
 
 ## 🧊 3D Contribution Calendar
 
@@ -219,8 +196,6 @@ Platforms:   Azure (AKS)  ·  Google Cloud Platform  ·  Oracle Cloud Infrastruc
 <img src="https://raw.githubusercontent.com/dhruvabhat24/dhruvabhat24/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 
 </div>
-
-> ⚡ **Setup note:** the 3D isometric graph above needs a one-time GitHub Action too — see setup section at the bottom.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:00C9FF&height=3&width=100%" width="100%"/>
 
@@ -231,8 +206,6 @@ Platforms:   Azure (AKS)  ·  Google Cloud Platform  ·  Oracle Cloud Infrastruc
 <img src="https://raw.githubusercontent.com/dhruvabhat24/dhruvabhat24/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
-
-> ⚡ **Setup note:** the snake animation above needs a one-time GitHub Action in this repo — see the setup section at the bottom of this file.
 
 <div align="center">
 
@@ -320,11 +293,18 @@ Platforms:   Azure (AKS)  ·  Google Cloud Platform  ·  Oracle Cloud Infrastruc
 4) PROFILE VIEWS COUNTER: already wired to komarev.com using your
    username — no setup needed, updates automatically.
 
-5) All stats/streak/language/trophy/skillicons/quote widgets
+5) All stats/streak/language/trophy/skillicons widgets
    (github-readme-stats, github-readme-streak-stats,
-   github-readme-activity-graph, github-profile-trophy, skillicons.dev,
-   quotes-github-readme) are free public APIs — no setup needed, they
-   pull live from your GitHub account.
+   github-readme-activity-graph, github-profile-trophy, skillicons.dev)
+   are free public APIs — no setup needed, they pull live from your
+   GitHub account. NOTE: github-readme-stats.vercel.app (the stats card,
+   streak card, top-langs card, and activity graph) is a shared free
+   service that frequently gets rate-limited or goes down temporarily.
+   If those show broken on your profile, it's very likely a temporary
+   outage on their end, not an issue with this file — refresh in a
+   few minutes/hours. If it stays broken long-term, you can self-host
+   your own instance (the project's GitHub page has one-click deploy
+   instructions) and swap the URL.
 
 =====================================================================
 -->
