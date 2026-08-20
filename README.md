@@ -177,10 +177,7 @@ Platforms:   Azure (AKS)  ·  Google Cloud Platform  ·  Oracle Cloud Infrastruc
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruvabhat24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF&icon_color=00C9FF&count_private=true"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvabhat24&theme=tokyonight&hide_border=true&background=0D1117&ring=00C9FF&fire=00C9FF"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvabhat24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF" width="100%"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvabhat24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00C9FF" width="100%"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvabhat24&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00C9FF&line=00C9FF&point=ffffff" width="100%"/>
 
